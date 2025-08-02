@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Interview\\Test\\EquityPosition\\EquityPositionBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F9A3E4-1A75-43DE-9202-179878F6E400}|EquityPositionTest\\EquityPositionTest.csproj|f:\\interview\\test\\equityposition\\equitypositionbackend\\equitypositiontest\\equitypositiontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1F9A3E4-1A75-43DE-9202-179878F6E400}|EquityPositionTest\\EquityPositionTest.csproj|solutionrelative:equitypositiontest\\equitypositiontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F9A3E4-1A75-43DE-9202-179878F6E400}|EquityPositionTest\\EquityPositionTest.csproj|f:\\interview\\test\\equityposition\\equitypositionbackend\\equitypositiontest\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F9A3E4-1A75-43DE-9202-179878F6E400}|EquityPositionTest\\EquityPositionTest.csproj|solutionrelative:equitypositiontest\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "F:\\Interview\\Test\\EquityPosition\\EquityPositionBackend\\EquityPositionTest\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "EquityPositionTest\\TransactionServiceTests.cs",
+              "ToolTip": "F:\\Interview\\Test\\EquityPosition\\EquityPositionBackend\\EquityPositionTest\\TransactionServiceTests.cs",
+              "RelativeToolTip": "EquityPositionTest\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:10:19.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquityPositionTest",
+              "DocumentMoniker": "F:\\Interview\\Test\\EquityPosition\\EquityPositionBackend\\EquityPositionTest\\EquityPositionTest.csproj",
+              "RelativeDocumentMoniker": "EquityPositionTest\\EquityPositionTest.csproj",
+              "ToolTip": "F:\\Interview\\Test\\EquityPosition\\EquityPositionBackend\\EquityPositionTest\\EquityPositionTest.csproj",
+              "RelativeToolTip": "EquityPositionTest\\EquityPositionTest.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T08:09:38.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

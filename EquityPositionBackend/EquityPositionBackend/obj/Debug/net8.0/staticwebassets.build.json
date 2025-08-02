@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1cHEwEAs9FAv+71nbZjiIjGa2u9Gd5KEQkRxREm3tyw=",
+  "Source": "EquityPositionBackend",
+  "BasePath": "_content/EquityPositionBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

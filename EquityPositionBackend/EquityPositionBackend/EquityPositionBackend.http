@@ -1,0 +1,6 @@
+@EquityPositionBackend_HostAddress = http://localhost:5239
+
+GET {{EquityPositionBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
