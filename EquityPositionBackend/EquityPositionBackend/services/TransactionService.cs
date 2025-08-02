@@ -32,5 +32,10 @@ namespace EquityPositionBackend.services
         {
             return await _repository.GetAllPositionsAsync();
         }
+
+        public async Task UpdatePositionAsync(Transaction transaction)
+        {
+            await _repository.UpdatePositionAsync(transaction);
+        }
     }
 }

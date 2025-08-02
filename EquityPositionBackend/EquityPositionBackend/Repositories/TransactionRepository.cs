@@ -86,7 +86,7 @@ namespace EquityPositionBackend.Repositories
         }
 
 
-        private async Task RecalculateAllPositions()
+        public async Task RecalculateAllPositions()
         {
             // Clear all positions
             _context.Positions.RemoveRange(_context.Positions);
@@ -116,6 +116,11 @@ namespace EquityPositionBackend.Repositories
         public async Task<IEnumerable<Position>> GetAllPositionsAsync()
         {
             return await _context.Positions.ToListAsync();
+        }
+
+        Task ITransactionRepository.RecalculateAllPositions()
+        {
+            return RecalculateAllPositions();
         }
     }
 

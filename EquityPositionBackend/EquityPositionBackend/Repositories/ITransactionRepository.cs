@@ -9,5 +9,7 @@ namespace EquityPositionBackend.Repositories
         Task AddTransactionAsync(Transaction transaction);
         Task UpdatePositionAsync(Transaction transaction);
         Task<IEnumerable<Position>> GetAllPositionsAsync();
+
+        Task RecalculateAllPositions();
     }
 }
